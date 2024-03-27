@@ -1,0 +1,11 @@
+.login-container {
+    max-width: 600px; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: beige;
+  }
+
+  .login-title {
+    text-align: center;
+
+  }
