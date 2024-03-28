@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import './Footer.css';
+import CollapseLink from './Accordion';
 
 const FooterComponent = () => {
   return (
@@ -8,21 +9,17 @@ const FooterComponent = () => {
       <Container>
         <Row>
           <Col md={4}>
-            <h5>Useful Links</h5>
-            <ul className="list-unstyled">
-              <li>
-                <a href="/">Home</a>
-              </li>
-              <li>
-                <a href="/services">Services</a>
-              </li>
-            </ul>
+            <h5>Creator Info</h5>
+            
+            <CollapseLink />
+            
+            
           </Col>
           <Col md={4}>
             <h5>Contact Us</h5>
             <p>Delhi-110012 , India </p>
             <p>Email: sample@gmail.com</p>
-            <p>Phone: +01 234 567 88</p>
+            
           </Col>
           <Col md={4}>
             <h5>Social Media</h5>

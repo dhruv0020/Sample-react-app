@@ -6,22 +6,22 @@ const TestimonialGroup = () => {
     {
       name: 'John Doe',
       place: 'Atlanta,US',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      quote: 'Awesome service.',
     },
     {
       name: 'Marry Doe',
       place: 'London,UK',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      quote: 'Extemely deighted to become dog owner by Sample.',
     },
     {
       name: 'Ramesh Singh',
       place: 'Punjab,India',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      quote: 'Prefernces of owner is aligned very well.',
     },
     {
       name: 'Atif Aslam',
       place: 'Dubai,UAE',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      quote: 'Pocket friendly supreme service. Must try for everyone',
     },
     {
       name: 'Kylian Mbappe',

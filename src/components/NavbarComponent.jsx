@@ -6,7 +6,7 @@ const NavbarComponent = () => {
   return (
     <Navbar bg="light" variant="light" expand="lg" sticky="top">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand as={Link} to="/">
           <img
             src="images/dog_paws.png"
             height="30"

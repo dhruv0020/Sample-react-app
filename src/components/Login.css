@@ -1,8 +1,13 @@
+
+.loginpg{
+  background-color: #CDCDCD;
+}
 .login-container {
     max-width: 600px; 
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: beige;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   }
 
   .login-title {

@@ -1,0 +1,22 @@
+.background-image {
+    
+    background-image: url('/public/images/Picture1.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .text-overlay {
+    
+    background: rgba(255, 255, 255, 0.7); 
+    padding: 20px; 
+    text-align: center;
+  }
+  
+  .about-header {
+    font-size: 10vw;
+  }
+
+  .about-body {
+    font-size: 5vw;
+
+  }
